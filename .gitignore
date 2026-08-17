@@ -1,0 +1,23 @@
+﻿# Large model files
+models/*.pkl
+models/*.h5
+models/*.pt
+models/*.pth
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv
+venv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+*.csv
+*.xlsx
